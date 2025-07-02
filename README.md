@@ -1,0 +1,1 @@
+This analysis explored employee attrition using EDA and machine learning models. We found strong relationships between attrition and features such as OverTime, EnvironmentSatisfaction, and JobSatisfaction. The best-performing model, CatBoost, achieved an accuracy , indicating it is reliable for predicting attrition risk.
